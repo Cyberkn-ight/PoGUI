@@ -225,7 +225,7 @@ static void on_convert_clicked(GtkButton *button, gpointer user_data)
         NULL,              /* child setup */
         NULL,              /* user data for child setup */
         NULL,              /* standard output (ignored) */
-        NULL,              /* standard error I still don't know (ignored) */
+        NULL,              /* standard error I still don't know man (ignored) */
         &status,
         &error
     );
